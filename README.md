@@ -20,14 +20,14 @@ This project is designed like an early 2000s personal website with:
 ## Folder Structure
 
 mothers-day-site/
-index.html
-style.css
+index.html,
+style.css,
 script.js
 
 mothers-day-site/assets/
-mom.jpg
-us.jpg
-wedding.jpg
+mom.jpg,
+us.jpg,
+wedding.jpg,
 music.mp3
 
 ## Setup
