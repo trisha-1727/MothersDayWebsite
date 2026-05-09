@@ -20,7 +20,6 @@ This project is designed like an early 2000s personal website with:
 ## Folder Structure
 
 mothers-day-site/
-│
 ├── index.html
 ├── style.css
 ├── script.js
